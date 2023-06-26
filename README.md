@@ -1,3 +1,4 @@
 # Git-Practice
 
-Integrated with GCF 
+Integrated with GCF on GCP
+Logging new commit
