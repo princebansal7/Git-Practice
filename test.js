@@ -24,3 +24,8 @@ function division(a, b) {
 }
 console.log("division is:", division(6, 9));
 console.log("division is:", division(6, 0));
+
+function sub(a, b) {
+    return a - b;
+}
+console.log("2: subtraction is:", sub(6, 9));
