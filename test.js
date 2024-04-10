@@ -29,3 +29,8 @@ function sub(a, b) {
     return a - b;
 }
 console.log("2: subtraction is:", sub(6, 9));
+
+function mod(a, b) {
+    return a % b;
+}
+console.log("2: modulo is:", mod(6, 9));
